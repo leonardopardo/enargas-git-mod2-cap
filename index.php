@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?= "Hola Mundo" ?> - Con errores
+    <?= "Hola Mundo" ?> - Todo Ok
 </body>
 </html>
